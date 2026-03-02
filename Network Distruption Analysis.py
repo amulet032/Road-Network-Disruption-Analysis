@@ -4,7 +4,7 @@ transport_disruption_chch.py
 Road Network Disruption Impact Analysis (Open Data) - Christchurch, NZ
 
 Pipeline:
-1) Download OSM drive network for Christchurch (cached to data/*.graphml)
+1) Download OSM drive network (cached to data/*.graphml)
 2) Sample random OD pairs from network nodes
 3) Compute baseline shortest path distances (by length)
 4) Simulate single-edge disruptions (remove one edge at a time)
@@ -17,11 +17,6 @@ Requirements:
 - pandas
 - numpy
 - matplotlib
-
-Usage examples:
-  python transport_disruption_chch.py --place "Christchurch, New Zealand" --download
-  python transport_disruption_chch.py --place "Christchurch, New Zealand" --run_all
-  python transport_disruption_chch.py --run_all --n_od 400 --n_edges 25 --top_n 8
 
 Notes:
 - This uses distance-based impacts (edge length). You can extend to travel time by adding speeds.
