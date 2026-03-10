@@ -54,13 +54,13 @@ These metrics approximate network efficiency loss and accessibility degradation.
 
 ### Simulated Traffic Flow in CHCH
 
-<img width="1221" height="1003" alt="Flow_lcv_chch" src="https://github.com/user-attachments/assets/cf2b16ce-7d61-4c6b-a2ef-6a19e852903d" />
+<img width="400" height="300" alt="Flow_lcv_chch" src="https://github.com/user-attachments/assets/cf2b16ce-7d61-4c6b-a2ef-6a19e852903d" />
 
 ---
 
 ### Spatial Distribution of Critical Segments
 
-<img width="409" height="349" alt="image" src="https://github.com/user-attachments/assets/f8b4bded-3164-4115-bfd0-8a0135661de6" />
+<img width="400" height="349" alt="image" src="https://github.com/user-attachments/assets/f8b4bded-3164-4115-bfd0-8a0135661de6" />
 
 ---
 
